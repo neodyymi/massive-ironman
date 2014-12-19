@@ -1,1 +1,2 @@
- 
+Aiheena on pöydäntyhjennysrobo. Esineet pöydällä havaitaan etäisyysanturilla pyörimällä tarkistaen ympäriltä liian lyhyet etäisyydet. Robotti sitten lähtee työntämään siinä suunnassa olevan esineen pois. Se tulee havaitsemaan pöydän reunan, joko jollain optisella anturilla tai koskemalla kokoajan pöytää havaiten sen puuttumisen. Sille tulee myös ehkä jonkinlainen esineiden tunnistaminen ja vain tietynlaisten(väristen) esineiden poistaminen pöydältä.
+Ongelmana saattaa olla pöydän rajojen tiedostaminen.
