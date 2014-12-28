@@ -1,1 +1,6 @@
- 
+ Viikko 2
+ Robottini on edistynyt hitaasti toisella viikolla. Osittain joulu ja osittain työt ovat vieneet aikaa tältä projektilta.
+ Suurin osa ajasta on kulunut sopivan robotin rakentamiseen. Ongelmana on lähinnä ollut tukevan rakenteen aikaansaaminen pitäen samalla liikkuvuuden tarpeeksi hyvänä. Kävin läpi useita iteraatioita testaillen liikkumista. Useimmiten suurin ongelma tuli kahden motorisoidun renkaan liikuttaessa ja kääntäessä robottia saada sopiva kolmas (ja neljäs) tukipiste jotta robotti pysyy pystyssä. Paikalla ollessa tai eteen/taakse liikkuessa tämä onnistui yksinkertaisesti, mutta käännöksissä tuntui palasia liikkuvan tai irtoavan tavoilla joita en halunnut. Tämänhetkinen rakenne nojaa kahteen motorisoituun renkaaseen ja kahteen pieneen pyörivään rengasmaiseen legopalaseen, jotka ovat tarpeeksi kitkattomia ollakseen vain tukena robotille.
+ Varsinaisia kokonaisia testiohjelmia tälle en ole vielä saanut aikaiseksi ja suurin osa testaamisesta tapahtuikin NXJ control centerin kautta.
+ Ensi viikolle tavoitteenani on saada melkovalmis ohjelmisto robotille liikkua ja havaita esineitä rajatulla alueella/pöydällä.
+ Suurimpia haasteitä tällä hetkellä ovat liikkumisen varmuus ja toistettavuus tai vaihtoehtoisesti kyky arvioida sijainti ja sallittu alue tarpeeksi tarkasti. Toinen ongelma voi tulla esineen havaitsemisessa sitä työntäessä, sillä monet esineet vaikuttivat liian kevyiltä painaakseen robotin kosketusta havaitsevaa sensoria.
