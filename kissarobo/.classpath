@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="kissarobo/" kind="src" path=""/>
+	<classpathentry kind="src" path="kissarobo"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="src" path="/classes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
