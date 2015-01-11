@@ -1,7 +1,11 @@
 import lejos.nxt.Button;
 import lejos.nxt.LCD;
 import lejos.nxt.Sound;
-
+/**
+ * This contains all the logic behind the robot.
+ * @author Ville-Veikko Saari
+ *
+ */
 public class Logic {
 	public static double distance_moved; // Distance moved since this was last
 	// reset.
